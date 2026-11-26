@@ -1,7 +1,7 @@
 # Hi, I'm Cyrine 👋
 
 **Security-focused engineer — application security, offensive security & OSINT.**  
-Based in Tunisia · open to junior **AppSec / pentest / SOC / GRC / OSINT** roles in Europe (visa sponsorship) or remote.
+Based in Tunisia · open to junior **AppSec / pentest / SOC / GRC / OSINT** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cyrine--massoud-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrine-massoud/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?logo=gmail&logoColor=white)](mailto:cyrinemassoud@gmail.com)
